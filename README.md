@@ -1,7 +1,7 @@
 **This shiny App is based on R-language, the version is R4.0.2**
 
 ## update
-- \[tab/server/plot.R] : file changed -> If there is no group column, print the error message (2021.10.18 - YH)
+- \[tab/server/plot.R] : file changed -> If there is no group column, print the error message (10/18/2021 - YH)
 
 ## About R
 - R 4.0.2  [download](https://cran.r-project.org/bin/windows/base/old/4.0.2/) (The latest version [download](https://cran.r-project.org/bin/windows/base/))
